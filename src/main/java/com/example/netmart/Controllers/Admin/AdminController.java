@@ -2,7 +2,8 @@ package com.example.netmart.Controllers.Admin;
 
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
-
+//Kendrick Asiedu Agyei
+//10864978
 public class AdminController {
     private final StringProperty _name; //firstName
     private final StringProperty _password; // lastName
